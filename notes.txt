@@ -1,0 +1,7 @@
+Python : 
+-exo 1 ~ 5min
+-exo2 : 15 min (sans les tests)
+-exo 3: 25min
+-exo 4 : 1h
+
+Django : 5-6 h
